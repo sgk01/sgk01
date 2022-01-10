@@ -5,7 +5,8 @@
 
 Here are some ideas to get you started:
 -->
- 🔭 I’m currently working as Web Developer
+ 🔭 I’m currently working as Web Developer.
+ 
  🌱 I’m currently learning PHP, JS, PYTHON, C#
  <!--
 - 👯 I’m looking to collaborate on ...
